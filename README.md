@@ -1,5 +1,13 @@
 # Yellowbrick
 
+## Build wheel
+
+```bash
+$ python3 setup.py bdist_wheel --universal
+```
+
+
+
 
 [![Build Status](https://github.com/DistrictDataLabs/yellowbrick/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/DistrictDataLabs/yellowbrick/actions/workflows/ci.yml)
 [![Coverage Status](https://codecov.io/gh/DistrictDataLabs/yellowbrick/branch/develop/graph/badge.svg?token=BnaSECZz2r)](https://codecov.io/gh/DistrictDataLabs/yellowbrick)
